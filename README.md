@@ -3,7 +3,7 @@
 Welcome to the **Kimi Model AI Chatbot & Vision Studio Pro**! This project is a premium, next-generation AI interface featuring a stunning Glassmorphism UI. It serves as an advanced frontend client built to interact with powerful AI models (like Kimi, OpenAI, etc.) for both text-based conversations and deep image analysis.
 
 ## 🔗 Live Demo
-* **View Live:** [Click here to test the UI](https://abhishekchoudhary88.github.io/your-repo-name/) *([Replace with your actual GitHub Pages URL](https://github.com/abhishekchoudhary88))*
+* **View Live:** [Click here to test the UI](https://abhishekchoudhary88.github.io/your-repo-name/) *((https://github.com/abhishekchoudhary88))*
 
 ---
 
